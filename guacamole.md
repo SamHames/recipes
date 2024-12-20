@@ -4,7 +4,7 @@
 
 * avocado
 * lemon
-* lime
+* red onion
 * salt
 
 ## Instructions
