@@ -6,6 +6,7 @@
 * lemon
 * red onion
 * jalapeño
+* coriander
 * salt
 
 ## Instructions
